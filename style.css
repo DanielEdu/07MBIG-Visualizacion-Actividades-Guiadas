@@ -3,6 +3,12 @@ body {
   background-color: #3b3b3b;
   color: aliceblue;
 }
+
 a{
   color:aqua;
+}
+
+div{
+ width: 600px;
+ height: 400px;
 }
